@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMyFriends_Firebase</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close\n</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>

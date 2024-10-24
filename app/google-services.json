@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459282719573",
+    "project_id": "findmyfriendsfirebase",
+    "storage_bucket": "findmyfriendsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459282719573:android:21487b4e3502000b9585dc",
+        "android_client_info": {
+          "package_name": "com.example.findmyfriends_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFG0PkM7M_kkBOgcbqIUL-kdvL9rbw8W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
