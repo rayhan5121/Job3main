@@ -79,10 +79,10 @@
         android:layout_height="wrap_content"
         android:text="I don't have an account! Register?"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/forgetPasswordTxt"
-        app:layout_constraintHorizontal_bias="0.284"
-        app:layout_constraintStart_toStartOf="@+id/forgetPasswordTxt"
-        app:layout_constraintTop_toBottomOf="@+id/forgetPasswordTxt"
-        app:layout_constraintVertical_bias="0.829" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginBtn"
+        app:layout_constraintVertical_bias="0.931" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
